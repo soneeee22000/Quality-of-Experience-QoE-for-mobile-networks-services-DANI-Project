@@ -1,5 +1,5 @@
 # Quality-of-Experience-QoE-for-mobile-networks-services-DANI-Project
-The dataset Poqemon_QoE_Dataset has been used in research papers to predict QoE from network QoS metrics, and to study interactions between the many influence factors. I will also work on the same dataset to apply the right machine learning algorithm to predict Video_Streaming  and so many other tasks...
+The dataset Poqemon_QoE_Dataset https://github.com/Lamyne/Poqemon-QoE-Dataset/blob/master/pokemon.data has been used in research papers to predict QoE from network QoS metrics, and to study interactions between the many influence factors. I will also work on the same dataset to apply the right machine learning algorithm to predict Video_Streaming  and so many other tasks...
 ____________________________________________________________________
 Why studying video streaming quality of experience (QoE) is important:
 
